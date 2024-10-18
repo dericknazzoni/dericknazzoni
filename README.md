@@ -1,18 +1,16 @@
 # 💫 About Me:
 A iOS mobile developer that is passionate about bringing easy solutions for day by day tasks.
 
-## Projects i worked on:
-Here are some projects that i haved worked on: 
-
-#  PicPay 
+# Projects i have worked on:
+## PicPay 
 I haved been working for PicPay for the past 2 years, helping them implemente new features for the credit card product. I will be showcasing two features i implemented. 
 
-## Piggybank
+### Piggybank
 With the piggybank feature we wanted to help the client have more credit for his card. So the solution was to create a piggybank that he could use to save money and every penny he saved would be converted to credit for his card. 
 
 <img width="250" alt="Screenshot 2024-10-18 at 16 48 21" src="https://github.com/user-attachments/assets/36f25cb6-0056-45bd-85fd-3ef85393dc20">
 
-## Timeline
+### Timeline
 As the name says basically we created a timeline so that the user can be able to see his purchases, showing him a icon of the type of purchase the date, time and value.
 
 <img width="250" alt="Screenshot 2024-10-18 at 17 35 25" src="https://github.com/user-attachments/assets/ff9e3e78-fc5e-430d-b3fd-204be8ff12e0">
