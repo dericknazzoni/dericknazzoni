@@ -3,7 +3,7 @@ A iOS mobile developer that is passionate about bringing easy solutions for day 
 
 # Projects i have worked on:
 ## PicPay 
-I haved been working for PicPay for the past 2 years, helping them implemente new features for the credit card product. I will be showcasing two features i implemented. 
+I haved been working for PicPay for the past 2 years, helping them implemente new features to impprove the user journey for the credit card product. I will be showcasing two features i implemented. 
 
 ### 🐷Piggybank
 With the piggybank feature we wanted to help the client have more credit for his card. So the solution was to create a piggybank that he could use to save money and every penny he saved would be converted to credit for his card. 
