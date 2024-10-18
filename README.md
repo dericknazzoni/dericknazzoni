@@ -15,6 +15,11 @@ As the name says basically we created a timeline so that the user can be able to
 
 <img width="250" alt="Screenshot 2024-10-18 at 17 35 25" src="https://github.com/user-attachments/assets/ff9e3e78-fc5e-430d-b3fd-204be8ff12e0">
 
+## Bank Next
+While working with Next i helped developing a FAQ scene, a screen with the poupose of speeding up the time it takes for the user to call the customer service center and ask questions. The screen speeds up this process as he may end up finding possible doubts he may have inside the app. 
+
+<img width="250" alt="Screenshot 2024-10-18 at 18 11 57" src="https://github.com/user-attachments/assets/963eebc6-e1ef-4cb1-bc24-944b12655661">
+
 # 🧔🏻Personal Project - Weather App
 A simple Weather App built with Swift that utilizes the OpenWeatherAPI to provide real-time weather information. The app features an autocomplete search field with location suggestions and allows users to choose between Celsius and Fahrenheit for temperature display.
 
